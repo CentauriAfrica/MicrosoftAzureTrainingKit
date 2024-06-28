@@ -4,13 +4,13 @@
   "description": "",
   "main": "./server.js",
   "dependencies":{
-    "mongoose": "2.5.12",
+    "mongoose": "5.13.20",
 	"express": "3.2.1",
 	"mongodb": "0.9.9-7",
     "hooks": "0.2.1"
     },
   "devDependencies": {
-	"mongoose": "2.5.12",
+	"mongoose": "5.13.20",
 	"express": "3.2.1",
 	"mongodb": "0.9.9-7",
 	"hooks": "0.2.1"
